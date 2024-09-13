@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Christian 👋
 
-<!--
-**collen6/collen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data scientist passionate about turning data into actionable insights! Here are a few things about me:
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, R, SQL
+- Machine Learning (Scikit-learn, XGBoost, Tidymodels)
+- Data Visualization (Plotly, ggplot2, PowerBI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Disaster Relief Prediction**: Built models to identify high-priority locations needing assistance during disasters.
+- **Michael Jordan Dashboard**: Developed an interactive dashboard analyzing Michael Jordan’s career statistics using Python and Dash.
+- **Housing Market Analysis**: Applied statistical models in R to analyze trends in the housing market.
+
+## 🌱 Currently Studying Data Science at the University of Virginia
+
+## 📫 Let's connect!
+- [LinkedIn](www.linkedin.com/in/christian-ollen)
